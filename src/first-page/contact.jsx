@@ -160,38 +160,6 @@ function Contact(){
                                     </g>
                                 </svg>
                             </div>
-
-                            <div class="col-span-full">
-                                <h6 class="text-sm text-gray-800">Select Subject</h6>
-                                <div class="flex max-lg:flex-col gap-6 mt-4">
-                                    <div class="flex items-center">
-                                        <input id="radio1" type="radio" name="value1" class="hidden peer" checked />
-                                        <label for="radio1"
-                                            class="relative p-0.5 flex items-center justify-center shrink-0 peer-checked:before:hidden before:block before:absolute before:w-full before:h-full before:bg-white w-5 h-5 cursor-pointer border-2 border-[#011c2b] rounded-full overflow-hidden">
-                                            <span class="border-[4px] border-[#011c2b] rounded-full w-full h-full"></span>
-                                        </label>
-                                        <p class="text-sm text-gray-500 ml-4">General Inquiry</p>
-                                    </div>
-
-                                    <div class="flex items-center">
-                                        <input id="radio2" type="radio" name="value1" class="hidden peer" />
-                                        <label for="radio2"
-                                            class="relative p-0.5 flex items-center justify-center shrink-0 peer-checked:before:hidden before:block before:absolute before:w-full before:h-full before:bg-white w-5 h-5 cursor-pointer border-2 border-[#011c2b] rounded-full overflow-hidden">
-                                            <span class="border-[4px] border-[#011c2b] rounded-full w-full h-full"></span>
-                                        </label>
-                                        <p class="text-sm text-gray-500 ml-4">Technical Support</p>
-                                    </div>
-
-                                    <div class="flex items-center">
-                                        <input id="radio3" type="radio" name="value1" class="hidden peer" />
-                                        <label for="radio3"
-                                            class="relative p-0.5 flex items-center justify-center shrink-0 peer-checked:before:hidden before:block before:absolute before:w-full before:h-full before:bg-white w-5 h-5 cursor-pointer border-2 border-[#011c2b] rounded-full overflow-hidden">
-                                            <span class="border-[4px] border-[#011c2b] rounded-full w-full h-full"></span>
-                                        </label>
-                                        <p class="text-sm text-gray-500 ml-4">Website Feedback</p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
 
                         <button type="button"

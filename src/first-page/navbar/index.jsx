@@ -10,7 +10,7 @@ import { FaGithub } from 'react-icons/fa';
 const navigation = [
   { name: 'About', href: '#about', current: false },
   { name: 'Contact', href: '#contact', current: false },
-  { name: 'Skills', href: '#', current: false },
+  { name: 'Skills', href: 'https://strong-choux-d5e0a6.netlify.app/', current: false },
 ]
 
 function classNames(...classes) {
