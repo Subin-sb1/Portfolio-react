@@ -6,6 +6,7 @@ import Profilecard from './first-page/main/index.jsx'
 import Line from './first-page/line/index.jsx'
 import About from './first-page/about.jsx'
 import Contact from './first-page/contact.jsx'
+import Workdiv from './first-page/workdiv.jsx'
 
 
 
@@ -15,6 +16,8 @@ createRoot(document.getElementById('root')).render(
    <Profilecard/>
    <Line title="about"/>
    <About/>
+   <Line title="work"/>
+   <Workdiv/>
    <Line title="contact"/>
    <Contact/>
   </StrictMode>,

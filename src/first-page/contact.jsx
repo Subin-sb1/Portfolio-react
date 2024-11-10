@@ -1,7 +1,7 @@
 import React from "react";
 function Contact(){
     return(
-        <div className="mx-40" id="contact">
+        <div className="mx-40 max-[800px]:m-20 max-[500px]:m-10"  id="contact">
             <p className="text-white">If you have any questions or just want to reach out, feel free to contact me. I'm always available for a chat and would love to hear from you. Let's connect and make something grat together!</p>
             <div>
           {/* contact form */}
