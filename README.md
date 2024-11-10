@@ -11,10 +11,10 @@ https://zesty-narwhal-22954b.netlify.app/#contact
 ![text](./others/fr.png)
 
 ## Mobile view
-![text](./others/Screenshot_2024-11-10-12-37-02-962_com.android.chrome.png)
-![title](./others/Screenshot_2024-11-10-13-46-25-714_com.android.chrome.png)
-![title](./others/Screenshot_2024-11-10-13-46-42-145_com.android.chrome.png)
-![title](./others/Screenshot_2024-11-10-13-46-56-030_com.android.chrome.png)
+<img src="./others/Screenshot_2024-11-10-12-37-02-962_com.android.chrome.png" alt="drawing" width="200" height="400"/>
+<img src="./others/Screenshot_2024-11-10-13-46-25-714_com.android.chrome.png" alt="drawing" width="200" height="400"/>
+<img src="./others/Screenshot_2024-11-10-13-46-42-145_com.android.chrome.png" alt="drawing" width="200" height="400"/>
+<img src="./others/Screenshot_2024-11-10-13-46-56-030_com.android.chrome.png" alt="drawing" width="200" height="400"/>
 
 ### 🔧 Built With
 
