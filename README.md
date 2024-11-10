@@ -8,6 +8,7 @@ https://zesty-narwhal-22954b.netlify.app/#contact
 ![text](./others/f.png)
 ![text](./others/s.png)
 ![text](./others/t.png)
+![text](./others/fr.png)
 
 ## Mobile view
 ![text](./others/Screenshot_2024-11-10-12-37-02-962_com.android.chrome.png)
