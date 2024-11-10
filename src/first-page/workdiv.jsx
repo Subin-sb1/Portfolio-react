@@ -10,7 +10,7 @@ function Workdiv(){
            ></Work>
            <Work im="p2.jpg" 
            titl="Video Violence Detection"
-           abt="Detect violence in video as real time using cnn and rnn"
+           abt="Detect violence in video as real time using cnn and rnn can find real time violence"
            ></Work>
         </div>
     )

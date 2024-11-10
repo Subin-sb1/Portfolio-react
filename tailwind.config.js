@@ -6,7 +6,8 @@ export default {
     "./src/first-page/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+    },
   },
   plugins: [],
 }
